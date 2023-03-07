@@ -1,0 +1,8 @@
+### Compressed File ###
+# General
+*.zip
+
+### MacOS ###
+# General
+.DS_Store
+

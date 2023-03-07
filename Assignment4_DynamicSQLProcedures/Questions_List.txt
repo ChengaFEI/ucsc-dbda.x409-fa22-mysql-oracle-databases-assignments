@@ -1,0 +1,12 @@
+# UCSC Extension
+# DBDA.X409.(10) MySQL and Oracle Database for Developers and Designers
+# Assignment 4
+# Cheng Fei
+# 10/31/2022
+# 
+# A dynamic stored procedure to process constraints using the cursor in the studentdb database.
+
+Questions:
+1. Primary key can not be deleted. Why?
+2. How to add constraints back with new names after deletion? (All the information has been deleted)
+3. I try to use triggers to track the deleted information. But the error occurs, saying that the root user has no access to the information_schema database. Why?
